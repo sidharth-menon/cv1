@@ -77,8 +77,9 @@ a:hover {
 }
 
 .bottom-cloud {
+    width: 20%;
   position: absolute;
-  left: 150px;
+  left: 50px;
   top: 20px;
 }
 
